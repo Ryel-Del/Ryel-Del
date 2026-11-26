@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ryel-Del/treko-trip"><strong>Treko Trip</strong></a> <sub><i>(Active)</i></sub><br/>
+      <a href="https://github.com/Ryel-Del/trekho"><strong>Trekho</strong></a> <sub><i>(Active)</i></sub><br/>
       <sub>Offline-first group travel PWA with live roll-call pings, GPS waypoint logging, expense splitting, and route playback.</sub><br/><br/>
       <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PWA</code>
     </td>
