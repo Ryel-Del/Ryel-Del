@@ -1,20 +1,18 @@
 <div align="center">
 
-  <!-- Animated Monospace Header -->
+  <!-- Animated Monospace Header (Interstellar Amber) -->
   <a href="https://github.com/Ryel-Del">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=RAEL+%2F%2F+%40Ryel-Del;Full-Stack%2C+Mobile+%26+IoT+Engineer;Offline-First+Systems+%26+Embedded+Hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=RAEL+%2F%2F+%40Ryel-Del;Product+Builder+%26+Full-Stack+Developer;Turning+Ideas+Into+Shipped+Software" alt="Typing SVG" />
   </a>
 
   <p>
     <sub>Tagbilaran City, PH (RPVT) • <i>"Never tell me the odds."</i></sub>
   </p>
 
-  <!-- Minimalist Social / Status Pills -->
+  <!-- Minimalist Status Pill -->
   <p>
-    <a href="https://instagram.com/yeldoeslife">
-      <img src="https://img.shields.io/badge/IG-%40yeldoeslife-0D1117?style=flat-square&logo=instagram&logoColor=FACC15&labelColor=161B22" alt="Instagram" />
-    </a>
-    <img src="https://img.shields.io/badge/FOCUS-Offline--First_%26_IoT-0D1117?style=flat-square&logo=github&logoColor=38BDF8&labelColor=161B22" alt="Focus" />
+    <img src="https://img.shields.io/badge/FOCUS-Product_%26_Offline--First_Apps-0D1117?style=flat-square&logo=github&logoColor=F59E0B&labelColor=161B22" alt="Focus" />
+    <img src="https://img.shields.io/badge/MODE-Endurance-0D1117?style=flat-square&logo=spacedot&logoColor=38BDF8&labelColor=161B22" alt="Endurance" />
   </p>
 
 </div>
@@ -39,8 +37,8 @@
   <tr>
     <td width="50%" valign="top">
       <strong>Vita-Check</strong><br/>
-      <sub>Rapid vital signs triage station powered by ESP8266, DS18B20 temp sensor, and MAX30100 oximeter in a laser-cut enclosure.</sub><br/><br/>
-      <code>C++</code> <code>ESP8266</code> <code>IoT</code> <code>Sensors</code>
+      <sub>Rapid vital signs patient interface powered by ESP8266, DS18B20 temp sensor, and MAX30100 pulse oximeter in a custom FabLab enclosure.</sub><br/><br/>
+      <code>C++</code> <code>ESP8266</code> <code>Sensors</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ryel-Del/ScrapStack"><strong>ScrapStack</strong></a><br/>
@@ -62,13 +60,24 @@
 
 ### `// LEADERSHIP & COMMUNITY`
 
-- **VP for External Affairs** — Society of Young Computer Professionals (SYComP)
-- **Secretary for Education** — Campus Student Organizations (HNU)
-- **Core Organizer** — Startup Weekend Bohol 2027 *(Disaster Resilience & Safety Edition)*
-- **Volunteer & CTF Competitor** — SproutUp Bohol & DICT Hack4Gov Region VII (*Team Falcon Devs*)
+- **Vice President for External Affairs** — Society of Young Computer Professionals *(A.Y. 2026–2027)* · Former **President** *(A.Y. 2025–2026)*
+- **Secretary for Education** — Campus Student Organizations, Holy Name University *(A.Y. 2026–2027)*
+- **Core Organizer** — Startup Weekend Bohol 2027
+- **Tech Volunteer** — Startup Weekend Bohol 2026: Women's Edition
+- **Community Volunteer** — SproutUp Bohol *(2026–Present)* & DEVCON Bohol *(2025–2026)*
+
+---
+
+### `// COMPETITIONS`
+
+- **Startup Weekend Bohol 2025** — Champion
+- **DICT Hack4Gov Season 5 (Region VII Qualifiers)** — *Team Falcon Devs*
+  - **Team:** 8th Place out of 15 Teams
+  - **Individual:** 14th Place out of 60 Competitors
 
 ---
 
 <div align="center">
-  <sub>Sim Racing • Commercial Aviation & METAR • Monochrome Street Photography • Electric Guitar</sub>
+  <sub><i>"Do not go gentle into that good night."</i></sub><br/>
+  <sub>Sim Racing • Commercial Aviation • Photography • Music</sub>
 </div>
