@@ -9,9 +9,9 @@
     <sub>Tagbilaran City, PH (RPVT) • <i>"Never tell me the odds."</i></sub>
   </p>
 
-  <!-- Native GitHub Pills (Zero External Image Failures) -->
+  <!-- Native GitHub Pills -->
   <p>
-    <kbd>&nbsp;FOCUS // OFFLINE-FIRST & PRODUCT&nbsp;</kbd>
+    <kbd>&nbsp;FOCUS // FULL-STACK & PRODUCT&nbsp;</kbd>
     &nbsp;
     <kbd>&nbsp;MODE // ENDURANCE&nbsp;</kbd>
   </p>
@@ -80,5 +80,5 @@
 
 <div align="center">
   <sub><i>"Do not go gentle into that good night."</i></sub><br/>
-  <sub>Sim Racing • Flight Simming • Photography • Music</sub>
+  <sub>Sim Racing • Commercial Aviation • Photography • Music</sub>
 </div>
