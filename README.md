@@ -2,7 +2,7 @@
 
   <!-- Animated Monospace Header (Interstellar Amber) -->
   <a href="https://github.com/Ryel-Del">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=RAEL+%2F%2F+%40Ryel-Del;Product+Builder+%26+Full-Stack+Developer;Turning+Ideas+Into+Shipped+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=RAEL+%2F%2F+%40Ryel-Del;BSIT+Student+%26+Builder;Prototyping+%26+Learning+in+Public" alt="Typing SVG" />
   </a>
 
   <p>
@@ -11,7 +11,7 @@
 
   <!-- Native GitHub Pills -->
   <p>
-    <kbd>&nbsp;FOCUS // FULL-STACK & PRODUCT&nbsp;</kbd>
+    <kbd>&nbsp;FOCUS // WEB, MOBILE & PROTOTYPES&nbsp;</kbd>
     &nbsp;
     <kbd>&nbsp;MODE // ENDURANCE&nbsp;</kbd>
   </p>
@@ -20,30 +20,30 @@
 
 ---
 
-### `// CURRENT BUILDS`
+### `// PROJECTS & PROTOTYPES`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ryel-Del/treko-trip"><strong>Treko Trip</strong></a><br/>
-      <sub>Offline-first group travel PWA with live roll-call pings, GPS waypoint logging, expense splitting, and route playback.</sub><br/><br/>
+      <a href="https://github.com/Ryel-Del/treko-trip"><strong>Treko Trip</strong></a> <sub><i>(WIP)</i></sub><br/>
+      <sub>Offline-first group travel PWA prototype with live roll-call pings, GPS waypoint logging, expense splitting, and route playback.</sub><br/><br/>
       <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PWA</code>
     </td>
     <td width="50%" valign="top">
-      <strong>DASH</strong><br/>
-      <sub>University-wide offline-first QR attendance system built for campus deployment at Holy Name University.</sub><br/><br/>
+      <strong>DASH</strong> <sub><i>(WIP)</i></sub><br/>
+      <sub>Campus QR attendance system prototype built for student organizations at Holy Name University.</sub><br/><br/>
       <code>Flutter</code> <code>Next.js</code> <code>Supabase</code> <code>SQLite</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Vita-Check</strong><br/>
-      <sub>Rapid vital signs patient interface powered by ESP8266, DS18B20 temp sensor, and MAX30100 pulse oximeter in a custom FabLab enclosure.</sub><br/><br/>
+      <strong>Vita-Check</strong> <sub><i>(Prototype)</i></sub><br/>
+      <sub>Rapid vital signs triage station built with ESP8266, DS18B20 temp sensor, and MAX30100 pulse oximeter in a laser-cut enclosure.</sub><br/><br/>
       <code>C++</code> <code>ESP8266</code> <code>Sensors</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ryel-Del/ScrapStack"><strong>ScrapStack</strong></a><br/>
-      <sub>Hardware component and e-waste marketplace connecting DIY builders with reusable electronics.</sub><br/><br/>
+      <sub>Concept marketplace connecting DIY builders with reusable electronics and hardware components.</sub><br/><br/>
       <code>Next.js</code> <code>Firebase</code> <code>Vercel</code>
     </td>
   </tr>
@@ -54,7 +54,7 @@
 ### `// STACK`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,flutter,sqlite,supabase,firebase,nodejs,express,prisma,postgres,c,cpp,arduino,python,git,linux&perline=10&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,flutter,sqlite,supabase,firebase,nodejs,express,prisma,postgres,mysql,c,cpp,arduino,python,git&perline=10&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
