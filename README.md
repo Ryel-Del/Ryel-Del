@@ -30,21 +30,28 @@
       <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PWA</code>
     </td>
     <td width="50%" valign="top">
-      <strong>DASH</strong> <sub><i>(Active)</i></sub><br/>
-      <sub>Campus QR attendance system built for student organizations at Holy Name University.</sub><br/><br/>
-      <code>Flutter</code> <code>Next.js</code> <code>Supabase</code> <code>SQLite</code>
+      <a href="https://github.com/db-larpers/Zabay-Event-Planning-Discovery-Operations-Platform"><strong>Zabay</strong></a><br/>
+      <sub>End-to-end event planning, discovery, and on-ground operations platform built for streamlined event coordination.</sub><br/><br/>
+      <code>TypeScript</code> <code>Full-Stack</code> <code>Operations</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Vita-Check</strong><br/>
-      <sub>Rapid vital signs triage station built with ESP8266, DS18B20 temp sensor, and MAX30100 pulse oximeter in a laser-cut enclosure.</sub><br/><br/>
-      <code>C++</code> <code>ESP8266</code> <code>Sensors</code>
+      <strong>DASH</strong> <sub><i>(Active)</i></sub><br/>
+      <sub>Campus QR attendance system built for student organizations at Holy Name University.</sub><br/><br/>
+      <code>Flutter</code> <code>Next.js</code> <code>Supabase</code> <code>SQLite</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ryel-Del/ScrapStack"><strong>ScrapStack</strong></a><br/>
       <sub>Hardware component and e-waste marketplace connecting DIY builders with reusable electronics.</sub><br/><br/>
       <code>Next.js</code> <code>Firebase</code> <code>Vercel</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>Vita-Check</strong><br/>
+      <sub>Rapid vital signs triage station built with ESP8266, DS18B20 temp sensor, and MAX30100 pulse oximeter in a laser-cut enclosure.</sub><br/><br/>
+      <code>C++</code> <code>ESP8266</code> <code>Sensors</code>
     </td>
   </tr>
 </table>
