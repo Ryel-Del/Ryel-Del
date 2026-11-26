@@ -2,17 +2,18 @@
 
   <!-- Animated Monospace Header (Interstellar Amber) -->
   <a href="https://github.com/Ryel-Del">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=RAEL+%2F%2F+%40Ryel-Del;Product+Builder+%26+Full-Stack+Developer;Turning+Ideas+Into+Shipped+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=RAEL+%2F%2F+%40Ryel-Del;Product+Builder+%26+Full-Stack+Developer;Turning+Ideas+Into+Shipped+Software" alt="Typing SVG" />
   </a>
 
   <p>
     <sub>Tagbilaran City, PH (RPVT) • <i>"Never tell me the odds."</i></sub>
   </p>
 
-  <!-- Minimalist Status Pill -->
+  <!-- Native GitHub Pills (Zero External Image Failures) -->
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-Product_%26_Offline--First_Apps-0D1117?style=flat-square&logo=github&logoColor=F59E0B&labelColor=161B22" alt="Focus" />
-    <img src="https://img.shields.io/badge/MODE-Endurance-0D1117?style=flat-square&logo=spacedot&logoColor=38BDF8&labelColor=161B22" alt="Endurance" />
+    <kbd>&nbsp;FOCUS // OFFLINE-FIRST & PRODUCT&nbsp;</kbd>
+    &nbsp;
+    <kbd>&nbsp;MODE // ENDURANCE&nbsp;</kbd>
   </p>
 
 </div>
@@ -79,5 +80,5 @@
 
 <div align="center">
   <sub><i>"Do not go gentle into that good night."</i></sub><br/>
-  <sub>Sim Racing • Commercial Aviation • Photography • Music</sub>
+  <sub>Sim Racing • Flight Simming • Photography • Music</sub>
 </div>
