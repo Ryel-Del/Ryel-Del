@@ -1,35 +1,66 @@
-### `SYS.INIT` — Rael (`@Ryel-Del` // `Neo`)
+<div align="center">
 
-Full-stack, mobile, and IoT engineer based in **Tagbilaran City, Bohol** — building **local-first, offline-capable software** and **embedded telemetry systems** engineered to run smoothly even when comms go dark.
+  <!-- Animated Monospace Header -->
+  <a href="https://github.com/Ryel-Del">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=RAEL+%2F%2F+%40Ryel-Del;Full-Stack%2C+Mobile+%26+IoT+Engineer;Offline-First+Systems+%26+Embedded+Hardware" alt="Typing SVG" />
+  </a>
 
-> *"Never tell me the odds."*
+  <p>
+    <sub>Tagbilaran City, PH (RPVT) • <i>"Never tell me the odds."</i></sub>
+  </p>
 
----
+  <!-- Minimalist Social / Status Pills -->
+  <p>
+    <a href="https://instagram.com/yeldoeslife">
+      <img src="https://img.shields.io/badge/IG-%40yeldoeslife-0D1117?style=flat-square&logo=instagram&logoColor=FACC15&labelColor=161B22" alt="Instagram" />
+    </a>
+    <img src="https://img.shields.io/badge/FOCUS-Offline--First_%26_IoT-0D1117?style=flat-square&logo=github&logoColor=38BDF8&labelColor=161B22" alt="Focus" />
+  </p>
 
-### 🛫 Active Flight Deck (Currently Building)
-
-- **[Treko Trip](https://github.com/Ryel-Del/treko-trip)** — Offline-first group travel PWA combining live roll-call pings (*Echo*), GPS waypoint telemetry, cash splitting, and post-trip route playback.
-- **DASH** — University-wide offline-first QR attendance system built with Flutter, Next.js, and Supabase for campus deployment at Holy Name University.
-- **Vita-Check** — Rapid vital signs patient interface powered by an ESP8266 microcontroller, DS18B20 1-Wire temp sensor, and MAX30100 pulse oximeter in a custom FabLab laser-cut chassis.
-- **[ScrapStack](https://github.com/Ryel-Del/ScrapStack)** — AI-assisted hardware component & e-waste marketplace connecting builders with reusable electronics.
-
----
-
-### ⚙️ Telemetry & Tech Stack
-
-**Web, Mobile & Offline-First**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,flutter,sqlite,supabase,firebase" alt="Web and Mobile Stack" />
-</p>
-
-**Backend, Embedded & Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,c,cpp,arduino,python,git,linux" alt="Backend and Embedded Stack" />
-</p>
+</div>
 
 ---
 
-### 🏁 Pit Wall & Leadership
+### `// CURRENT BUILDS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ryel-Del/treko-trip"><strong>Treko Trip</strong></a><br/>
+      <sub>Offline-first group travel PWA with live roll-call pings, GPS waypoint logging, expense splitting, and route playback.</sub><br/><br/>
+      <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PWA</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>DASH</strong><br/>
+      <sub>University-wide offline-first QR attendance system built for campus deployment at Holy Name University.</sub><br/><br/>
+      <code>Flutter</code> <code>Next.js</code> <code>Supabase</code> <code>SQLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Vita-Check</strong><br/>
+      <sub>Rapid vital signs triage station powered by ESP8266, DS18B20 temp sensor, and MAX30100 oximeter in a laser-cut enclosure.</sub><br/><br/>
+      <code>C++</code> <code>ESP8266</code> <code>IoT</code> <code>Sensors</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ryel-Del/ScrapStack"><strong>ScrapStack</strong></a><br/>
+      <sub>Hardware component and e-waste marketplace connecting DIY builders with reusable electronics.</sub><br/><br/>
+      <code>Next.js</code> <code>Firebase</code> <code>Vercel</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `// STACK`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,flutter,sqlite,supabase,firebase,nodejs,express,prisma,postgres,c,cpp,arduino,python,git,linux&perline=10&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+### `// LEADERSHIP & COMMUNITY`
 
 - **VP for External Affairs** — Society of Young Computer Professionals (SYComP)
 - **Secretary for Education** — Campus Student Organizations (HNU)
@@ -38,12 +69,6 @@ Full-stack, mobile, and IoT engineer based in **Tagbilaran City, Bohol** — bui
 
 ---
 
-### 📡 Off-Duty Frequencies
-
-- **Cockpit & Grid:** Sim-racing telemetry, commercial aviation charts & METAR weather, and chasing apexes.
-- **Analog & Visuals:** Monochrome street photography, electric guitar, and hard sci-fi worldbuilding.
-
-<p align="left">
-  <a href="https://instagram.com/yeldoeslife"><code>@yeldoeslife</code></a> •
-  <span>RPVT / Tagbilaran City, PH</span>
-</p>
+<div align="center">
+  <sub>Sim Racing • Commercial Aviation & METAR • Monochrome Street Photography • Electric Guitar</sub>
+</div>
